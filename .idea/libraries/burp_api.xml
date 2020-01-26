@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="burp-api-1.0">
+  <library name="burp-api">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/burp-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/burp-api-source.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
